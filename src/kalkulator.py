@@ -28,7 +28,7 @@ choice = input("Enter choice(1/2/3/4):")
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
 
-if choice == '12':
+if choice == '132':
    print(num1,"+",num2,"=", add(num1,num2))
 
 elif choice == '2':
